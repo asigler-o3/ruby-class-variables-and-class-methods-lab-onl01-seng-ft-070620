@@ -13,7 +13,7 @@ class Song
     @@count += 1
   end
 
-  def genre
+  def genre (genre)
     @genre.count
   end
 
