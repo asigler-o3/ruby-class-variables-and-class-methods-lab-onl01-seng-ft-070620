@@ -14,7 +14,7 @@ class Song
   end
 
   def genre
-    self.all.count << self
+    self.genre_count << self
   end
 
 end
