@@ -15,5 +15,6 @@ class Song
 
   def genre
     self.count << self
+  end
 
 end
